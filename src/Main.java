@@ -84,7 +84,6 @@ public class Main {
             else {
                 return shiftCodeDecrypt(s, key);
             }
-
         }
     }
 
